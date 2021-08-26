@@ -6,4 +6,4 @@ Join us on our mission to create the opposite of loneliness.
 
 ![LOVOO team](images/pool.jpg)
 
-See our [careers page](https://inside.lovoo.com/en/jobs/) for open positions and more info.
+See our [careers page](https://about.lovoo.com/en/company/karriere/#start-working-at-lovoo)for open positions and more info.
